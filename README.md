@@ -5,7 +5,7 @@ A Single Page Application (SPA) to decode Vehicle Identification Numbers (VIN) u
 ## Live Demo
 
 The application is deployed and accessible at:
-[Live Deployment Link](https://tz-abf-vin-decoder.vercel.app/)
+[Live Deployment Link](https://tz-abp-vin-decoder.vercel.app/)
 
 ## Features
 
@@ -21,8 +21,8 @@ Make sure you have Node.js (version 18 or higher) installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tz_abf_vin_decoder.git
-   cd tz_abf_vin_decoder
+   git clone https://github.com/DanilTop3245/tz_abp_vin_decoder.git
+   cd tz_abp_vin_decoder
    ```
 
 2. Install dependencies:

@@ -1,5 +1,5 @@
 {
-  "name": "tz_abf_vin_decoder",
+  "name": "tz_abp_vin_decoder",
   "private": true,
   "version": "1.0.0",
   "type": "module",
